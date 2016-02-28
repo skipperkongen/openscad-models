@@ -4,13 +4,12 @@ This repo contains all my OpenSCAD models. I created it for learning purposes
 
 ## Snippets
 
-Cosine:
+Cosine wave:
 
 ```
 for(i=[0:36])
-    translate((rands(0,10,3)) {
-        sphere(0.1);
-    }
+    translate([i*10,0,0])
+       cylinder(r=5,h=cos(i*10)*50+60);
 ```
 
 Random point cloud:
