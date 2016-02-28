@@ -13,7 +13,7 @@ for(i=[0:36])
     }
 ```
 
-Cloud of spheres:
+Random point cloud:
 
 ```
 for(i=[0:100]) {
