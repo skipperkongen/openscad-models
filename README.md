@@ -2,6 +2,30 @@
 
 This repo contains all my OpenSCAD models. I created it for learning purposes
 
+## Snippets that have been copy-pasted from around the place
+
+Cosine:
+
+```
+for(i=[0:36])
+    translate((rands(0,10,3)) {
+        sphere(0.1);
+    }
+```
+
+Cloud of spheres:
+
+```
+for(i=[0:100]) {
+    loc = rands(0,100,3);
+    size = rands(1, 3, 1)[0];
+    echo( "Random location: ",loc);
+    translate(loc) {
+        sphere(size);
+    }
+}
+```
+
 ## Tutorials
 
 Basic tutorial/good narrator:
