@@ -63,3 +63,5 @@ Art projects that might be worth recreating as practice:
     * [Kraftwerk - Computer World](https://alancook.files.wordpress.com/2013/04/computer-world.jpg)
     * [Kraftwerk - Minimum Maximum](http://www.stfimages.in/images/2013/01/15/UexZK40F.jpg)
     * [Pink Floyd - Dark Side of the Moon](http://www.jimis-cyberstore.com/store/media/dark-side-poster-redo.jpg)
+* 3D-print famous and beautiful computer games:
+    * [Monument valley](http://www.monumentvalleygame.com/img/screenshot2.jpg)
