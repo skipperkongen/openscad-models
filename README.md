@@ -33,6 +33,14 @@ translate([3, 0, 0])
 square(1);
 ```
 
+Funky pasta spiral w. vector scaling:
+
+```
+linear_extrude(height = 30, scale=[1,7], twist =950, $fn=100)
+ translate([2,0,0])
+ circle(r = 1);
+```
+
 ## Tutorials
 
 Basic tutorial/good narrator:
