@@ -15,3 +15,4 @@ I'm reading the f'ing [manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manua
 ## Next up
 
 * [Extrusion](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language#2D_to_3D_Extrusion)
+* [Animation](https://www.youtube.com/watch?v=yDHRaSAYLNw) (god, Patrick Conner chose to narrate his videos in an annoying way!)
