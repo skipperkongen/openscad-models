@@ -2,6 +2,10 @@
 
 This repo contains all my OpenSCAD models. I created it for learning purposes
 
+## Tutorials
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/eq5ObNeiAUw" frameborder="0" allowfullscreen></iframe>
+
 ## This learned thus far
 
 I'm reading the f'ing [manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language).
