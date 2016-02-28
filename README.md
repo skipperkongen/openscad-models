@@ -56,5 +56,10 @@ Animation tutorial/terrible narrator:
 Art projects that might be worth recreating as practice:
 
 * [Recode](http://recodeproject.com/)
-* Famous album covers:
+* Recreate famous album covers in 3D (!?):
     * [Joy Division - Unknown Pleasures](http://images.shirts.com/products/6097/14-14-33735/joy-division-t-shirt.jpg)
+    * [Kraftwerk - Autobahn](https://s-media-cache-ak0.pinimg.com/564x/54/70/13/5470137a72d484cfad2a5921834488ee.jpg)
+    * [Kraftwerk - Autobahn 2](http://www.loud-clear.co.uk/wp-content/uploads/2013/01/Autobahn-original-LP-cover.jpg)
+    * [Kraftwerk - Computer World](https://alancook.files.wordpress.com/2013/04/computer-world.jpg)
+    * [Kraftwerk - Minimum Maximum](http://www.stfimages.in/images/2013/01/15/UexZK40F.jpg)
+    * [Pink Floyd - Dark Side of the Moon](http://www.jimis-cyberstore.com/store/media/dark-side-poster-redo.jpg)
