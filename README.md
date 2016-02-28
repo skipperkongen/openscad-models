@@ -2,7 +2,7 @@
 
 This repo contains all my OpenSCAD models. I created it for learning purposes
 
-## Snippets that have been copy-pasted from around the place
+## Snippets
 
 Cosine:
 
