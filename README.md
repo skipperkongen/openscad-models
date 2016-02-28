@@ -4,7 +4,7 @@ This repo contains all my OpenSCAD models. I created it for learning purposes
 
 ## Tutorials
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/eq5ObNeiAUw" frameborder="0" allowfullscreen></iframe>
+[![Tutorial 1](http://img.youtube.com/vi/eq5ObNeiAUw/0.jpg)](http://www.youtube.com/watch?v=eq5ObNeiAUw)
 
 ## This learned thus far
 
